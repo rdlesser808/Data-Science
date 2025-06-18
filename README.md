@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science
 
 A collection of comprehensive data analysis projects showcasing various machine learning and statistical analysis techniques.
 
